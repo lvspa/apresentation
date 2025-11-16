@@ -4,4 +4,4 @@
 
 
 # Algumas skills:
-[![My Skills](https://skillicons.dev/icons?i=py,java,spring,js,html,css,react,nodejs,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,spring,js,html,css,react,postgres,mysql)](https://skillicons.dev)
